@@ -1,7 +1,5 @@
 # raz-pos
 
-# caesars-auto-parking
-
 ***Description***
 - Grabs the player who used /pos inside of the chat and gets the Vector3 Position for the player. This script is commonly used for developers only.
 
